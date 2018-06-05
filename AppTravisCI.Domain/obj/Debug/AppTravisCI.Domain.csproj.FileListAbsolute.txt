@@ -1,0 +1,6 @@
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\obj\Debug\AppTravisCI.Domain.csprojAssemblyReference.cache
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\obj\Debug\AppTravisCI.Domain.csproj.CoreCompileInputs.cache
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\bin\Debug\AppTravisCI.Domain.dll
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\bin\Debug\AppTravisCI.Domain.pdb
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\obj\Debug\AppTravisCI.Domain.dll
+c:\RJSS.TesteAppTravisCI\RJSS.TesteAppTravisCI\obj\Debug\AppTravisCI.Domain.pdb
