@@ -1,0 +1,6 @@
+language: csharp
+solution: AppTravisCI.sln
+before_install:
+  - sudo apt-get install nunit-console
+after_script:
+  - nunit-console AppTravisCI.DomainTests/bin/Release/AppTravisCI.DomainTests.dll
