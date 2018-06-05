@@ -29,7 +29,7 @@ namespace AppTravisCI.Domain.Tests
             Product p01 = new Product("Caneta", 10);
             _service.StorageProduct(p01);
 
-            Assert.AreEqual(2, _service.SelecProduct().Count);
+            Assert.AreEqual(1, _service.SelecProduct().Count);
         }
         [Test]
         public void DiscardProductTest()
